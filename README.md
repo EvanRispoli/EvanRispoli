@@ -14,7 +14,7 @@
   <img align="center" alt="Evan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Evan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="evanrispoli" /> 
+  <img align="center"src="https://komarev.com/ghpvc/?username=evanRispoli&color=green" alt="evanrispoli" /> 
 </div>
   
   ##
