@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Rispoli</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanrispoli&label=Profile%20views&color=0e75b6&style=flat" alt="evanrispoli" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=evanrispoli&label=Profile%20views&color=0e75b6&style=flat" alt="evanrispoli" /> </p>
 
 
 
@@ -10,6 +10,7 @@
 - 👣 I’m currently learning **JavaScript, C#,**
 
 - 📫 How to reach me **evan.rispoli@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
