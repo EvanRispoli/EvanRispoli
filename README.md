@@ -5,15 +5,6 @@
 
 
 
-<p align = "center">- 👨‍🎓 I’m currently working on [College projects](https://github.com/EvanRispoli?tab=repositories)</p>
-
-<p align = "center">- 👣 I’m currently learning **JavaScript, C#,**</p>
-
-<p align = "center">- 📫 How to reach me **evan.rispoli@gmail.com**</p>
-
-
-
-
 <div align="center">
 <p><img  width = "80%" height = "auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanrispoli&theme=dark" alt="evanrispoli" /></p>
 
