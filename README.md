@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evanrispoli&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="evanrispoli" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=evanrispoli&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="evanrispoli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanrispoli&theme=dark" alt="evanrispoli" /></p>
 
