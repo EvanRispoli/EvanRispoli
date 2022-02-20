@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evan Rispoli</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=evanrispoli&theme=dark" alt="evanrispoli" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=evanrispoli&theme=dark" alt="evanrispoli" /></p>
+<p></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanrispoli&label=Profile%20views&color=0e75b6&style=plastic" alt="evanrispoli" /> </p>
 
