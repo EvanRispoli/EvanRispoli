@@ -5,12 +5,12 @@
 
 
 
-- 👨‍🎓 I’m currently working on [College projects](https://github.com/EvanRispoli?tab=repositories)
+<p align = "center">- 👨‍🎓 I’m currently working on [College projects](https://github.com/EvanRispoli?tab=repositories)</p>
 
-- 👣 I’m currently learning **JavaScript, C#,**
+<p align = "center">- 👣 I’m currently learning **JavaScript, C#,**</p>
 
-- 📫 How to reach me **evan.rispoli@gmail.com**
-</p>
+<p align = "center">- 📫 How to reach me **evan.rispoli@gmail.com**</p>
+
 
 
 
