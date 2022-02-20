@@ -13,6 +13,7 @@
 <p><img width = "80%" height = "auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /></p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img img width = "80%" height = "auto" src="https://github-profile-trophy.vercel.app/?username=evanrispoli" alt="evanrispoli" /></a> </p>
+  
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=evanrispoli&theme=dracula&hide_border=true)
   
   
