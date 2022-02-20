@@ -17,15 +17,16 @@
 <a href="https://stackoverflow.com/users/user:15475556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15475556" height="30" width="40" /></a>
 </p>
 
-
-<p><img width = "50%" height = "auto" align="left" src="https://github-readme-stats.vercel.app/api?username=evanrispoli&show_icons=true&theme=dracula&locale=en" alt="evanrispoli" />
-<img width = "40%" height = "110%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /></p>
-
-
-
-
-<p><img  width = "100%" height = "auto" align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=evanrispoli&theme=dark" alt="evanrispoli" /></p>
+<p><img  width = "80%" height = "auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanrispoli&theme=dark" alt="evanrispoli" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evanrispoli" alt="evanrispoli" /></a> </p>
+
+<p><img width = "60%" height = "auto" align="center" src="https://github-readme-stats.vercel.app/api?username=evanrispoli&show_icons=true&theme=dracula&locale=en" alt="evanrispoli" />
+<img width = "60%" height = "110%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /></p>
+
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
