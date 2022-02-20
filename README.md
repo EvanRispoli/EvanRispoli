@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Rispoli</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=evanrispoli&label=Profile%20views&color=0e75b6&style=flat" alt="evanrispoli" /> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=evanrispoli&theme=dracula&hide_border=true)
 
 
 
@@ -14,7 +14,7 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img img width = "80%" height = "auto" src="https://github-profile-trophy.vercel.app/?username=evanrispoli" alt="evanrispoli" /></a> </p>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=evanrispoli&theme=dracula&hide_border=true)
+  
   
   
 
@@ -35,6 +35,11 @@
   <a href="https://github.com/EvanRispoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="user:15475556" height="30" width="40" /></a>
 </p>
 </div>
+
+### <h2 align="center">Visitor Count</h2>
+ <p align="center"> 
+ <img src="https://profile-counter.glitch.me/{evanrispoli}/count.svg" alt="larymak" />
+</p>
 
 
 
