@@ -18,8 +18,8 @@
 </p>
 
 
-<img width = "50%" height = "auto" align="left" src="https://github-readme-stats.vercel.app/api?username=evanrispoli&show_icons=true&theme=dracula&locale=en" alt="evanrispoli" />
-<img width = "40%" height = "110%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" />
+<p><img width = "50%" height = "auto" align="left" src="https://github-readme-stats.vercel.app/api?username=evanrispoli&show_icons=true&theme=dracula&locale=en" alt="evanrispoli" />
+<img width = "40%" height = "110%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /></p>
 
 
 
