@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/user:15475556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15475556" height="30" width="40" /></a>
 </p>
 
-<div style="display:inline-block">
+<div style="display: flex">
 <p><img width = "30%" height = "auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanrispoli&show_icons=true&theme=dracula&locale=en&layout=compact" alt="evanrispoli" /></p>
 
 <p>&nbsp;<img width = "30%" height = "auto" align="center" src="https://github-readme-stats.vercel.app/api?username=evanrispoli&show_icons=true&theme=dracula&locale=en" alt="evanrispoli" /></p>
