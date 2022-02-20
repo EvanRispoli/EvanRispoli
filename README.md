@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Rispoli</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=evanrispoli&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=evanrispoli&theme=react-dark&hide_border=true)
 
 
 
