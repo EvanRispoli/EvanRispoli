@@ -30,11 +30,8 @@
   
 <h3 >Connect with me:</h3>
 <p>
-<a href="http://linkedin.com/in/evan-rispoli" target="new"><img display= "inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/evan-rispoli" height="30" width="40" /></a>
-  
-<a href="https://stackoverflow.com/users/15475556" target="new"><img display= "inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15475556" height="30" width="40" /></a>
-  
-  <a href="https://github.com/EvanRispoli" target="blank"><img display= "inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="user:15475556" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/evan-rispoli" target="new"><img display= "inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/evan-rispoli" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/15475556" target="new"><img display= "inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15475556" height="30" width="40" /></a><a href="https://github.com/EvanRispoli" target="blank"><img display= "inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="user:15475556" height="30" width="40" /></a>
 </p>
 </div>
 
